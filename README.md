@@ -50,7 +50,7 @@ Figure 0-0 code
 
     v #w
 
-<img src="0-0_UK_Post_Sectors_files/figure-markdown_strict/0-0 UK Post Sectors-1.png" style="display: block; margin: auto auto auto 0;" />
+<img src="0-0 UK Post Sectors-1.png" style="display: block; margin: auto auto auto 0;" />
 
 Figure 0.0 A scatter-plot showing average longitudes plotted against
 average latitudes, by post-code sectors. Pivoted from a CSV file of
